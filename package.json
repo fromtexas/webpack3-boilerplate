@@ -14,7 +14,7 @@
     "url": "https://github.com/fromtexas/webpack3-boilerplate"
   },
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.5"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.6",
